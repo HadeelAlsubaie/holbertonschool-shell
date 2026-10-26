@@ -6,3 +6,4 @@
 - 4-listmorefiles: lists all contents, including hidden files, in long format
 - 5-listfilesdigitonly: lists all contents in long format with numeric user and group IDs
 - 6-firstdirectory: creates the directory my_first_directory in /tmp
+- 7-movethatfile: moves the file betty from /tmp to /tmp/my_first_directory
