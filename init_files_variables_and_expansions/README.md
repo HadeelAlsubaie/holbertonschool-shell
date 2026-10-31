@@ -13,3 +13,4 @@
 - 11-binary_to_decimal: converts the number in BINARY from base 2 to base 10
 - 12-combinations: prints all combinations of two lowercase letters except oo
 - 13-print_float: prints the number in NUM with two decimal places
+- 14-decimal_to_hexadecimal: converts the number in DECIMAL from base 10 to base 16
